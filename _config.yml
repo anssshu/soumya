@@ -9,16 +9,16 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: 
+email: 
 facebook_username:
 twitter_username:
 github_username:
-address:
-  - line:
-  - line:
+address: 
+  - line: 
+  - line: 
   # Feel free to add more lines here 
-telephone:
+telephone: 
 copyright:
 
 # API settings
